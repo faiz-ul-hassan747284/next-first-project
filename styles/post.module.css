@@ -1,0 +1,17 @@
+.post{
+    border-radius: 5%;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    text-decoration: none;
+    color: grey;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+}
+.postImage{
+    border-radius: 50%;
+
+}
+.post:hover{
+    text-decoration: none;
+    color: dimgrey;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.7);
+}
